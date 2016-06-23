@@ -1,0 +1,6 @@
+SALES RECEIPT
+Unit Price : $500.00
+Quantity: 3.00
+Susbtotal: $1500.00
+Sales Tax: $90.00
+Total: $1590.00

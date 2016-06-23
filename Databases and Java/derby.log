@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 22 13:08:54 CDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0149-390c-171f-00000490c188 
+on database directory /Users/glen/Documents/Codes/workspace/Databases and Java/PersonDB  with class loader sun.misc.Launcher$ExtClassLoader@62f72617 
+Loaded from file:/System/Library/Java/Extensions/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-462-10M4609
+user.dir=/Users/glen/Documents/Codes/workspace/Databases and Java
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.6.8
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
